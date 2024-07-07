@@ -1,0 +1,14 @@
+.bgphoto{
+    width: 99vw;
+    padding: 8px;
+    height: 500px;
+    /* background-image: url(https://th.bing.com/th/id/OIP.C5lKW6nMcPeX4cRIXtOSTQHaEu?rs=1&pid=ImgDetMain); */
+    /* background-position:  center;
+    background-repeat: no-repeat;
+    background-size: cover; */
+    position: relative;
+}
+.bgphoto img{
+    height: 100%;
+    width: 100%;
+}
